@@ -227,9 +227,9 @@ When running `sbt run`:
 | **0.5** | **Student Unit Tests** | Thorough unit test cases added in `StudentMazeSolverTest` verifying edge cases. |
 | **0.5** | **Scala 3 Style & Strict Typing** | Code conforms to `-Yexplicit-nulls`, `-language:strictEquality`, passes `scalafmtCheckAll`, and avoids custom domain classes. |
 
-### Possible Deductions
+### Possible Deductions: up to...
 * **-1.0 pt**: Modification of existing procedure signatures, test fixtures, or project architecture.
-* **-1.0 pt**: Introduction of custom domain classes, case classes, traits, or ADTs (violating the imperative project constraint).
+* **-1.0 pt**: Introduction of custom domain classes, case classes, traits, or ADTs (violating the imperative project constraint); we will soon work on a fully-object oriented version of this project!
 * **-1.0 pt**: Compiler warnings under `-Werror` or unformatted code failing `scalafmtCheckAll`.
 * **-1.0 pt**: Missing AI transcript or affidavit that AI was not used.
 
