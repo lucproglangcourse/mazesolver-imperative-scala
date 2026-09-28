@@ -1,7 +1,7 @@
-# COMP 371 Project 1: Maze Rescue (Imperative & Procedural Scala)
+# COMP 371 Project 1: Maze Rescue (Imperative Paradigm)
 
 Loyola University Chicago — Department of Computer Science  
-**Course:** COMP 371 / COMP 471: Programming Languages  
+**Course:** COMP 371 / COMP 471: Programming Languages (F26)
 **Instructor:** Konstantin Läufer  
 **Grade:** Points (max 6.0)
 
@@ -337,5 +337,5 @@ In this assignment, all state is represented using raw arrays (`Array[Array[Char
 
 ### AI Usage Disclosure
 * [ ] No AI tools were used on this assignment.
-* [ ] AI tools were used (describe tool, prompts, and attach transcript link / affidavit below):
+* [ ] AI tools were used (describe tool, prompts, and provide transcript link below or transcript document(s) in doc/ subdirectory):
   > [TODO: AI transcript link or statement]
